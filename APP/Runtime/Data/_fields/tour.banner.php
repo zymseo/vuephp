@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'banner_path', 2 => 'banner_belong_country', '_autoinc' => true, '_pk' => 'id', '_type' => array ( 'id' => 'int(10)', 'banner_path' => 'varchar(255)', 'banner_belong_country' => 'int(10)', ), );?>
